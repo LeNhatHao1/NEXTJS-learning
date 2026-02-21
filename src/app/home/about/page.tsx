@@ -1,6 +1,6 @@
 const About = () => {
     return (
-        <>Gioi thieu san pham</>
+        <>Gioi thieu ban than</>
     )
 }
 export default About;
